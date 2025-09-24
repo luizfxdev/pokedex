@@ -93,10 +93,5 @@ Este projeto mantém a licença do projeto original. Consulte o arquivo `LICENSE
 
 - **Projeto original**: [rolwane](https://github.com/rolwane/nome-do-repositorio-original)
 - **PokéAPI**: [https://pokeapi.co/](https://pokeapi.co/)
-- **Modificações**: [Seu Nome](https://github.com/seu-usuario)
+- **Modificações**: [Luizfxdev](https://www.linkedin.com/in/luizfxdev)
 
-## 📞 Contato
-
-Seu Nome - [@seu_twitter](https://twitter.com/seu_twitter) - seu.email@exemplo.com
-
-Link do projeto: [https://github.com/seu-usuario/nome-do-seu-fork](https://github.com/seu-usuario/nome-do-seu-fork)
